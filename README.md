@@ -298,3 +298,4 @@
 
 # Sponsor
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+- [OmniConvert](https://tools.sagasu.art/) - Free online file & unit converter. 73 format conversions + 345 unit conversions, 100% client-side (no file uploads), 8 languages. Built with Astro + WebAssembly on Cloudflare Pages.
